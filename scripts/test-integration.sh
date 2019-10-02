@@ -31,6 +31,7 @@ else
 	yarn gulp compile-extension:json-language-features-server
 	yarn gulp compile-extension:image-preview
 
+	echo `ls $IMAGE_PREVIEW_PATH`
 	echo "Running integration tests with '$INTEGRATION_TEST_ELECTRON_PATH' as build."
 fi
 
