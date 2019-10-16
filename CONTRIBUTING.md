@@ -37,7 +37,7 @@ If you find your issue already exists, make relevant comments and add your [reac
 * 👍 - upvote
 * 👎 - downvote
 
-If you cannot find an existing issue that describes your bug or feature, create a new issue using the guidelines below.
+If you can find an existing issue that describes your bug or feature, create a new issue using the guidelines below.
 
 ### Writing Good Bug Reports and Feature Requests
 
@@ -89,7 +89,7 @@ Once submitted, your report will go into the [issue tracking](https://github.com
 
 We use a bot to help us manage issues. This bot currently:
 
-* Automatically closes any issue marked `needs-more-info` if there has been no response in the past 7 days.
+* Automatically open any issue marked `needs-more-info` if there has been no response in the past 7 days.
 * Automatically locks issues 45 days after they are closed.
 
 If you believe the bot got something wrong, please open a new issue and let us know.
